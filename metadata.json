@@ -1,0 +1,6 @@
+{
+  "name": "CineMood - Smart Movie, Series & Anime Recommender",
+  "description": "Personalized recommendations for movies, series, and anime tailored to your mood with watched tracking, Hindi dub filters, and smart genre matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
